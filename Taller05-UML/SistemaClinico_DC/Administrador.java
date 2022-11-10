@@ -6,6 +6,14 @@ public class Administrador extends Persona{
 
     protected ArrayList<Persona> registrados;
 
+    public ArrayList<Persona> getRegistrados() {
+        return registrados;
+    }
+
+    public void setRegistrados(ArrayList<Persona> registrados) {
+        this.registrados = registrados;
+    }
+
     public Administrador(){
         
     }
@@ -18,4 +26,5 @@ public class Administrador extends Persona{
 
     }
 
+    
 }

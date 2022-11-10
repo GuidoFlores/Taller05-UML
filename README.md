@@ -10,3 +10,5 @@
 
 
 ## Caso de uso #2
+
+![Diagrama en blanco - Diagrama de secuencia básico](https://user-images.githubusercontent.com/108084845/201001191-86f034b3-d348-446a-9b8f-3f71277b29c5.png)
